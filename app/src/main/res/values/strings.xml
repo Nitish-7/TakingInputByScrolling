@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelectionScreen</string>
+    <string name="complete_your_profile">Complete your profile</string>
+    <string name="cm_selection">cm</string>
+    <string name="ft_selection">ft</string>
+    <string name="height">HEIGHT</string>
+    <string name="adding_these_deatailes_will_helps_us_better_understand_your_medical_condition">Adding these deatailes will helps us better understand your medical condition.</string>
+    <string name="profile_completion">Profile Completion</string>
+</resources>
